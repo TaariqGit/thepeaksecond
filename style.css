@@ -11,3 +11,4 @@ h1 { font-size:32px; line-height:1.2; margin:0 0 8px; }
 h2 { font-size:20px; margin:32px 0 8px; }
 .muted { color:var(--muted); }
 footer { margin-top:48px; padding-top:16px; border-top:1px solid var(--line); color:var(--muted); font-size:14px; }
+header a.brand{display:inline-flex;align-items:center;gap:10px}header a.brand img{border-radius:50%}
